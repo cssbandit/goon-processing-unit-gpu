@@ -32,9 +32,9 @@ const Header = () => {
            </span>
          </div>
         
-                 <div className="header-right">
-           <button className="gtc-tour-btn">Join Goon Network</button>
-         </div>
+                           <div className="header-right">
+            <a href="https://x.com/unitgoon" target="_blank" rel="noopener noreferrer" className="gtc-tour-btn">Join Goon Network</a>
+          </div>
       </div>
     </header>
   );

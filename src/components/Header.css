@@ -90,6 +90,8 @@
   font-family: 'Permanent Marker', cursive;
   transition: all 0.2s;
   box-shadow: 0 2px 8px rgba(118, 185, 0, 0.3);
+  text-decoration: none;
+  display: inline-block;
 }
 
 .gtc-tour-btn:hover {

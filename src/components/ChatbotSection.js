@@ -63,9 +63,9 @@ const ChatbotSection = () => {
             </div>
           </div>
           
-          <button className="launch-agent-btn">
-            [ Buy on Pump ]
-          </button>
+          <a href="https://pump.fun/coin/8kKKjzY9FiuN8feLS3hrCiCkQQjkMP3qK4zTpD4vpump" target="_blank" rel="noopener noreferrer" className="launch-agent-btn">
+            Buy on Pump
+          </a>
           
           <div className="technology-info">
             Built With GPU NIMs
