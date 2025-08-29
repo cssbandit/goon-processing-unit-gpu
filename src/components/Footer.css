@@ -1,0 +1,37 @@
+.footer {
+  background-color: #000;
+  border-top: 1px solid #333;
+  padding: 3rem 0;
+  margin-top: 4rem;
+}
+
+.footer-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 1.3rem;
+  color: #ccc;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: 'Caveat', cursive;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 2rem 0;
+    margin-top: 2rem;
+  }
+  
+  .footer-content {
+    padding: 0 1rem;
+  }
+  
+  .footer-text {
+    font-size: 1rem;
+  }
+}
